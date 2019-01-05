@@ -4,5 +4,8 @@ title: About
 permalink: /about/
 ---
 
-<img src="/assets/images/about_image.jpg" alt="my photo" class="image_center">
-A place to keep my ideas, things I have done and things I wanna do
+![My photo](/assets/images/about_image.jpg)
+
+(I'm on the left)
+
+I'm a SE/BrSE from Vietnam living near Tokyo. My experience is mainly about coding in PHP and Ruby, as well as connecting Vietnamese and Japanese team members.
