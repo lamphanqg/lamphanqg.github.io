@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sử dụng concat trong content_tag của Rails"
-tags: rails
+tags: [rails]
 ---
 # Hàm `concat` là gì?
 Nói đơn giản thì `concat` là hàm để nối và print string ra view trong Rails.

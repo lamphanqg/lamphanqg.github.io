@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tạo blog với Jekyll và Github Pages"
-tags: jekyll blog githubpages
+tags: [jekyll, blog, githubpages]
 ---
 # Cài đặt Jekyll
 
