@@ -1,6 +1,11 @@
 ---
 layout: default
 ---
+<nav class="toc">
+  <strong>Table of Contents</strong>
+  {% include toc.html html=content item_class="toc-item-%level%" %}
+</nav>
+
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
