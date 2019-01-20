@@ -23,19 +23,19 @@ In these days, people use Docker to quickly create a development environment. Yo
 If you want to setup Rails enviroment in Docker, and use Webpack, there need to be some changes from the guide.
 
 * First, you need to install the latest Node version. The Dockerfile they give you in the guide does include installing Nodejs, but it will be the v4, which is quite outdated. You can check the latest version [here](https://github.com/nodesource/distributions/blob/master/README.md#debinstall). So, to install v11, I added these 2 lines into Dockerfile:
-```Dockerfile
+```docker
 RUN curl -sL https://deb.nodesource.com/setup_11.x | bash -
 RUN apt-get install -y nodejs
 ```
 * Then, you need to install Yarn so that the command `rails  webpacker:install` will work automatically at the time you run `rails new`. Of course, you can install Yarn later and run the webpacker install command manually. The installation guide is [here](https://yarnpkg.com/lang/en/docs/install/#debian-stable). Based on that, I added following lines to Dockerfile.
-```Dockerfile
+```docker
 RUN curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | apt-key add -
 RUN echo "deb https://dl.yarnpkg.com/debian/ stable main" | tee /etc/apt/sources.list.d/yarn.list
 RUN apt-get update && apt-get install yarn
 ```
 
 OK, so basically you only need 2 changes in order to make Docker work with Rails and Webpack. This is my final Dockerfile:
-```Dockerfile
+```docker
 FROM ruby:2.6
 RUN apt-get update -qq && apt-get install -y postgresql-client
 RUN curl -sL https://deb.nodesource.com/setup_11.x | bash -
