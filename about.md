@@ -50,22 +50,64 @@ Currently, I would like to have a job where I can practice and enhance my progra
 
 * TDD in Rails with Rspec
 * Vuejs
+* Typescript
 * Elixir
 * EC
 * Chat application
-* Agriculture & gardening (I have a small garden near my house, where I enjoy growing vegetables)
-* Data analysis and visualization
+* Agriculture & gardening (I have a small garden near my house, where I enjoy growing my veggies)
+* Data analysis and visualization (like in business intelligence systems)
+* Design system (in order to make peace between designers and developers)
 
 ## What I don't want
 
 * Too much management stuff (Basically it's what I'm doing, and I think I am in the best place for this kind of job)
 * Pulic speaking (I have a strong speech anxiety, even in my native language, and even through a phone)
 
+## Tech stack
+
+### Have experience, able to use quickly with support of google search
+
+* Ruby
+  * Ruby on Rails
+  * Capybara
+* Docker (mainly docker-compose)
+* Vagrant
+* Javascript (mostly jquery)
+* PHP
+  * Laravel
+* git
+* shell script
+* Apache
+* Passenger
+
+### Tried some times, easy to read, may take time to use
+
+* PHP
+  * FuelPHP
+  * CodeIgniter
+* Python
+* Octave (tried it when I take a course in machine learning)
+* Vue (basic use only)
+* Swift
+* nginx
+* C# (used when I try to learn game programming with Unity)
+
+### Have interest in, but not have enough time to write anything
+
+* Vue as a framework to build SPA
+* Elixir
+
+### Don't like much, but can learn if work requires
+
+* React
+* Go
+* Java
+
 ## Language ability
 
 ### English
 
-I have learned it for 15 years, got IELTS 6.5 in 2010 in order to come to my college. It's the main language used in all my college classes. So I think I have no problem using English in business enviroment.
+I have learned it for 15 years, got IELTS 6.5 in 2010 in order to come to my college. It's the main language used in all my college classes, so I think I have no problem using English in business enviroment.
 
 ### Japanese
 
