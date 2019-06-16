@@ -3,8 +3,6 @@
 
 @import "{{ site.theme }}";
 
-
-
 img.avatar {
   float: left;
   margin-top: 5px;
@@ -15,6 +13,7 @@ img.avatar {
   @media screen and (min-width: 1200px) {
     float: right;
     margin-right: -260px;
+    max-width: 250px;
     position: sticky;
     top: 0;
   }
