@@ -2,11 +2,12 @@
 layout: post
 title: "Mua rau củ hữu cơ ở Nhật"
 tag: [japan, life]
+image: /assets/images/organic.jpg
 ---
 
-Hồi đầu lúc mới qua Nhật du học, vô siêu thị thấy họ bán rau củ nhìn thích lắm, cây nào cây nấy size đều tăm tắp, đóng hộp đóng bịch sạch sẽ gọn gàng. Nên mấy năm đầu đều tự tin thoải mái ra siêu thị lựa rau lựa trái cây ăn. Trái cây ở Nhật thì bá đạo khỏi nói luôn, vừa lớn vừa ngọt, đặc biệt là mấy thứ như dâu, mikan, dưa lưới v.v
+Hồi đầu lúc mới qua Nhật du học, vô siêu thị thấy họ bán rau củ nhìn thích lắm, cây nào cây nấy size đều tăm tắp, đóng hộp đóng bịch sạch sẽ gọn gàng. Nên mấy năm đầu đều tự tin thoải mái ra siêu thị lựa rau lựa trái cây ăn. Trái cây ở Nhật thì bá đạo khỏi nói luôn, vừa lớn vừa ngọt, đặc biệt là mấy thứ như dâu, mikan, dưa lưới v.v :yum:
 
-Tuy nhiên, khoảng 3 năm gần đây, do mình bắt đầu quan tâm hơn tới chuyện về quê, mướn đất trồng rau nên cũng đọc được khá nhiều thông tin về nông nghiệp ở Nhật. Có 1 số bài viết nói là dư lượng thuốc trừ sâu, dư lượng nitrat cho phép ở Nhật tương đối cao so với Mỹ hay các nước châu Âu, đặc biết là trên trái cây (nghe nói tồn dư thuốc bảo vệ thực vật nhiều nhất là ở dâu). Vậy nên nhà mình cũng bắt đầu hơi ngại ăn rau củ mua trong siêu thị bình thường, và bắt đầu tìm tới các nguồn rau hữu cơ. Trong bài này mình sẽ giới thiệu 1 số thông tin mình biết về nguồn rau củ hữu cơ ở Nhật.
+Tuy nhiên, khoảng 3 năm gần đây, do mình bắt đầu quan tâm hơn tới chuyện về quê, mướn đất trồng rau nên cũng đọc được khá nhiều thông tin về nông nghiệp ở Nhật. Có 1 số bài viết nói là dư lượng thuốc trừ sâu, dư lượng nitrat cho phép ở Nhật tương đối cao so với Mỹ hay các nước châu Âu, đặc biết là trên trái cây (nghe nói tồn dư thuốc bảo vệ thực vật nhiều nhất là ở dâu). :scream: Vậy nên nhà mình cũng bắt đầu hơi ngại ăn rau củ mua trong siêu thị bình thường, và bắt đầu tìm tới các nguồn rau hữu cơ. Trong bài này mình sẽ giới thiệu 1 số thông tin mình biết về nguồn rau củ hữu cơ ở Nhật.
 
 ## Các cửa hàng chuyên bán thực phẩm hữu cơ/thực phẩm an toàn
 
