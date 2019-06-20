@@ -10,6 +10,8 @@ img.avatar {
 }
 
 .toc {
+  opacity: 0.8;
+
   @media screen and (min-width: 1200px) {
     float: right;
     margin-right: -260px;
@@ -33,21 +35,21 @@ img.avatar {
 
   .toc-item-3 {
     margin-left: 15px;
-    font-size: 17px;
+    font-size: 16px;
   }
 
   .toc-item-4 {
     margin-left: 25px;
-    font-size: 16px;
+    font-size: 15px;
   }
 
   .toc-item-5 {
     margin-left: 35px;
-    font-size: 15px;
+    font-size: 14px;
   }
 
   .toc-item-6 {
     margin-left: 45px;
-    font-size: 14px;
+    font-size: 13px;
   }
 }
