@@ -24,13 +24,6 @@ layout: default
     {{ content }}
     <h4>Tags:</h4><b>{{ page.tags | sort | join: ", "}}</b>
   </div>
-  <div
-    class="just-comments"
-    data-disablesociallogin="true"
-    data-allowguests="true"
-    data-apikey="4c9181c2-9e04-4835-9e03-6bae0427046f">
-  </div>
-  <script async defer src="https://just-comments.com/w.js"></script>
 
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
