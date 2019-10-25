@@ -8,7 +8,7 @@ permalink: /about/
 
 (I'm on the left)
 
-I'm a SE/BrSE from Vietnam living near Tokyo. My experience is mainly about coding in PHP and Ruby, as well as connecting Vietnamese and Japanese team members.
+I'm a SE/BrSE from Vietnam. I used to live in Saitama and now moved to Himeshima, an island in Oita Prefecture, Japan. My experience is mainly about coding in PHP and Ruby, as well as connecting Vietnamese and Japanese team members.
 
 ## Education
 
