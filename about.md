@@ -18,31 +18,7 @@ My programming skills are learnt partly from my Pascal programming course in hig
 
 ## Work Experience
 
-### 1st company
-
-My projects:
-
-* PSD to HTML converting
-* Gmail SSO implementation for Wordpress page
-* Create forms in raw PHP
-* Create simple iPad app in Obj-C
-* Create member introduction site with FuelPHP
-
-This is a small company whose main business is mainly creating homepages and campaign sites/apps. My technical team has 2 seniors and 3 juniors (including me). Projects are small, so usually each one of member will take care of 2-3 projects at the same time, and have a team meeting every week to report the progress. Tooling in the company was quite poor. Even though it was 2015, our seniors did not know about version control, let alone Git. Codes were zipped and named with date and time, then uploaded to server through a FTP client. Another junior and I brought Git to the company.
-
-Here I learnt about basic phases in producing websites: design, HTML-CSS-JS coding, PHP (I only know PHP at the time) integrating, unit test, deploying.
-
-### 2nd company (current)
-
-#### Project 1
-
-It's a B2B system that support companies to manage recruitment posts, applicants, screening schedules, etc. It's written in Rails 2, and our team joined in the maintenance phase. I have to say, this project is old, and lots of code are not that good, but it taught me a lot about Rails, AWS, MVC, Docker, etc. The technology stack of it mainly includes Ruby on Rails, Passenger, Apache, MySQL. There are 2 applications. One for managing side, which let companies' recruiters manage data related to recruiting jobs and applicants, and another one to show recruiting posts to public. We have a batch to sync data between those applications regularly. In the former application, we also have some crawlers that get datas from recruiting sites, with our client's username and password provided. They may be the most tricky part in the application, because they're built dynamically. When we want to add more recruiting sites to crawl, we only need to add some specific commands with parameters into database, and the crawler will read and execute those commands. There's a bit metaprogramming here, and I think that's one of the reasons they chose Ruby for this.
-
-In this project, I have been playing as a BrSE, standing between the client's DevOps team in Japan, and my engineer team in Vietnam. In Japan side, we try to make it following agile principles. We have daily scrums, weekly planing meetings and retrospectives. We also have on-the-fly technical meetings, where we discuss and decide, to some extent, the structure and logic of new functions, or cause and solution of bugs. Then, everyday, I make Jira tasks and translate everything into Vietnamese, and manage my team to fulfill all requirements we decided. Nevertheless, because I know best about requirements, and (unfortunately) have the most experience with the project as well as Rails framework, I usually have times when it's better, faster, simpler for me to write the code myself. To be honest, I enjoy those times a lot more than management, planning, or reporting times.
-
-#### Project 2
-
-I will write about it later.
+*Under maintenance...*
 
 ## What I want
 
