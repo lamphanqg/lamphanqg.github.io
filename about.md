@@ -8,7 +8,7 @@ permalink: /about/
 
 (I'm on the left)
 
-I'm a SE/BrSE from Vietnam. I used to live in Saitama and now moved to Himeshima, an island in Oita Prefecture, Japan. My experience is mainly about coding in PHP and Ruby, as well as connecting Vietnamese and Japanese team members.
+I'm a Ruby on Rails developer from Vietnam. I used to live in Beppu (Oita), Saitama, then Himeshima (Oita) and now moved to Himeji, a city with a very beautiful castle in Hyogo, Japan. My experience has been mainly about coding in Ruby, as well as connecting Vietnamese and Japanese team members.
 
 ## Education
 
@@ -18,21 +18,20 @@ My programming skills are learnt partly from my Pascal programming course in hig
 
 ## Work Experience
 
-*Under maintenance...*
+* Backend Engineer in YAMAP Inc., Sep 2022 - Present
+* System Engineer in Ruby Development Inc., Sep 2019 - Aug 2022
+* System Engineer in Neolab Inc., Dec 2015 - Sep 2019
 
 ## What I want
 
-Currently, I would like to have a job where I can practice and enhance my programming skills. Recently I'm looking into some following topics:
+Currently, I would like to have a job where I can enhance my programming and system design skills. Recently I'm looking into some following topics:
 
+* Modular Monolith
+* Schema-driven development
+* Database performance (especially PostgreSQL)
+* Geodata with PostGIS, RGeo, Mapbox, etc.
 * TDD in Rails with Rspec
-* Vuejs
-* Typescript
-* Elixir
-* EC
-* Chat application
-* Agriculture & gardening (I have a small garden near my house, where I enjoy growing my veggies)
 * Data analysis and visualization (like in business intelligence systems)
-* Design system (in order to make peace between designers and developers)
 
 ## What I don't want
 
@@ -43,34 +42,29 @@ Currently, I would like to have a job where I can practice and enhance my progra
 
 ### Have experience, able to use quickly with support of google search
 
-* Ruby
-  * Ruby on Rails
-  * Capybara
-* Docker (mainly docker-compose)
-* Vagrant
-* Javascript (mostly jquery)
-* PHP
-  * Laravel
+* Ruby, Rails, RSpec, Capybara
+* Docker (mainly docker-compose), Vagrant
+* Javascript (jQuery, Vue)
+* Python, Flask
+* PHP, Laravel
 * git
 * shell script
-* Apache
-* Passenger
+* Apache, nginx
+* puma, Passenger
+* CircleCI, Github Actions, CodeBuild, CodePipeline
 
 ### Tried some times, easy to read, may take time to use
 
 * PHP
   * FuelPHP
   * CodeIgniter
-* Python
 * Octave (tried it when I take a course in machine learning)
-* Vue (basic use only)
 * Swift
-* nginx
 * C# (used when I try to learn game programming with Unity)
 
 ### Have interest in, but not have enough time to write anything
 
-* Vue as a framework to build SPA
+* Rust
 * Elixir
 
 ### Don't like much, but can learn if work requires
